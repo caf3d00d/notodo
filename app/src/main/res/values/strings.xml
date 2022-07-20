@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">notodo</string>
+    <string name="not_to_do_app">Not To Do App V:1.0.0</string>
+    <string name="add_something_to_not_do">Add something to not do</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="clear">Clear</string>
+    <string name="not_todo_list">Not todo list</string>
+</resources>
